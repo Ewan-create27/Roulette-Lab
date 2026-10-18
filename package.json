@@ -1,0 +1,8 @@
+{
+  "name": "roulette-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node test-engine.cjs && node test-graph.cjs && node test-journal.cjs && node test-stats.cjs && node test-allin.cjs"
+  }
+}
